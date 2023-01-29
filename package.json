@@ -7,7 +7,7 @@
   "publisher": "JohnStilia",
   "description": "A text sharing tool for developers",
   "icon": "pasteportal_icon.png",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "preview": true,
   "engines": {
     "vscode": "^1.74.0"
