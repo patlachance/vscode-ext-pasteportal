@@ -43,7 +43,7 @@ For an extended list of changes, please see the [CHANGELOG](CHANGELOG).
 
 #### Changed
 
-- Update the Documentation with images
+- Update the documentation with images
 
 #### Removed
 
@@ -51,7 +51,7 @@ For an extended list of changes, please see the [CHANGELOG](CHANGELOG).
 
 #### Fixed
 
-- Nothing yet!
+- Typos in Documentation
 
 #### Security
 
@@ -63,3 +63,5 @@ Contributors:
 
 - [cur50r](https://github.com/cur50r)
 - [danutene](https://github.com/DanutEne)
+
+[v0.1.9]: https://github.com/stiliajohny/vscode-ext-pasteportal/releases/tag/v0.1.9
