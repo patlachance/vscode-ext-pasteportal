@@ -27,7 +27,7 @@ None yet. If you find any issues, please report them to the PastePortal team.
 
 For an extended list of changes, please see the [CHANGELOG](CHANGELOG.md).
 
-### [0.0.1] - 29-01-2023
+### [v0.0.1] - 29-01-2023
 
 #### Added
 
@@ -52,7 +52,7 @@ For an extended list of changes, please see the [CHANGELOG](CHANGELOG.md).
 
 - Nothing yet!
 
-[0.0.1]: https://github.com/stiliajohny/vscode-ext-pasteportal/releases/0.0.1
+[v0.0.1]: https://github.com/stiliajohny/vscode-ext-pasteportal/releases/0.0.1
 
 
 ---
