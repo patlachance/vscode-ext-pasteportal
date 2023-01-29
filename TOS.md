@@ -30,7 +30,7 @@ IN NO EVENT SHALL THE COMPANY BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SP
 
 ## Governing Law and Jurisdiction
 
-These Terms of Service shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without giving effect to any principles of conflicts of law.
+These Terms of Service shall be governed by and construed in accordance with the laws of United Kingdom, without giving effect to any principles of conflicts of law.
 
 ## Changes to the Terms of Service
 
