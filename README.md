@@ -33,7 +33,7 @@ For an extended list of changes, please see the [CHANGELOG](CHANGELOG.md).
 
 - Initial release
 - Terms of Service agreement
-- Keybiond shortcuts
+- Keybind shortcuts
 
 #### Changed
 
