@@ -2,7 +2,7 @@
 
 ## Introduction
 
-PastePortal (the "Service") is a revolutionary new application that makes sharing text a breeze. The Service is provided by Non-Existing-Orginizasion (the "Team"), and is intended for use by developers, programmers, and other users who need to share text, code, or other data easily and efficiently.
+PastePortal (the "Service") is a revolutionary new application that makes sharing text a breeze. The Service is provided by Non-Existing-Organization (the "Team"), and is intended for use by developers, programmers, and other users who need to share text, code, or other data easily and efficiently.
 
 ## Use of the Service
 
